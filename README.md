@@ -8,12 +8,28 @@ Currently, I work as a Consultant at Masorange 💼, where I help clients optimi
 In addition to BigQuery for large-scale data analysis 🔍 and SAS for statistical modeling and reporting 📑, I’m continuously expanding my expertise in Data Science and Artificial Intelligence 🤖, aiming to transition into those fields and develop cutting-edge solutions.
 
 
-## Skills
+## Skills 🛠
+Programming & Tools: Python, SQL, R, SAS, BigQuery, Git, Excel
 
-## Notable Projects
+Data Visualization: Tableau, Power BI, Matplotlib, Seaborn
 
-## Nex Steps!
+Statistical Analysis: Hypothesis Testing, Regression, Time Series Analysis
 
+Machine Learning: Scikit-learn, XGBoost (learning), Natural Language Processing (in progress)
+
+Soft Skills: Communication, Problem-Solving, Adaptability, Critical Thinking
+
+
+## Notable Projects 🌟
+Here are a few projects I'm particularly proud of:
+
+🧬 **Multinomial Logistic Regression for Predicting Erythematosquamous Diseases** – Developed a predictive model using multinomial logistic regression to classify the likelihood of patients developing various types of erythematosquamous diseases based on clinical and histopathological features. The project focused on medical data preprocessing, feature selection, and model evaluation to support early diagnosis and treatment planning. 
+
+
+🛰 **Geospatial Analysis** – Analyzed spatial data to optimize location-based services for a logistics company.
+🧠 NLP Sentiment Analyzer (Work in Progress) – Developing a sentiment analysis tool using Python and NLP libraries to classify customer feedback.
+
+➡️ You can explore these and more in my pinned repositories!
 
 ## 🚀 Let's Connect!
 Feel free to explore my repositories and projects, and don’t hesitate to reach out if you're interested in collaborating or discussing opportunities in Data Science, AI, or any data-driven initiatives.
